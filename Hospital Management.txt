@@ -1,0 +1,7 @@
+Workshop question-
+create multiple hospitals -> 
+create patients with details(name, age, phonenumber,city,state, department) 
+-> create an enum for department(values-> oncology, neurology , cardiology , gynocology)-> 
+add multiple patients in each hospital -> 
+also maintain a map of hospitals through a map(key->hospitalname , value-> hospital-object)
+ -> create 3 classes - hospital , patient and hospitalmain
